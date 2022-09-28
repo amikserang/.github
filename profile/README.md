@@ -1,4 +1,4 @@
 # AMIK Serang
-Akademi Manajemen Informatika dan Komputer Serang kini hadir di GitHub, sebagai sarana mahasiswa dalam pembelajaran diluar kampus, saat ini dikelola oleh @rizkimcitra
+Akademi Manajemen Informatika dan Komputer Serang kini hadir di GitHub
 
 - Status: **unofficial** ( menunggu persetujuan akademik )
